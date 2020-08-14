@@ -1,8 +1,8 @@
 // Update this constant with your ServiceNow credentials
 const options = {
-  url: 'https://github.com/joejohnston66/adapter-change_management.git',
-  username: 'joe.johnston@centurylink.com',
-  password: 'K1lldeernd2020jdj'
+  url: 'https://dev103306.service-now.com/',
+  username: 'admin',
+  password: 'K!lldeernd2020jdj'
 };
 
 
